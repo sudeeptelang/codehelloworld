@@ -1,0 +1,16 @@
+C:\Users\sharu\source\repos\HelloWorld\HelloWorld\HelloWorldRepository\bin\Debug\HelloWorldRepository.dll
+C:\Users\sharu\source\repos\HelloWorld\HelloWorld\HelloWorldRepository\bin\Debug\HelloWorldRepository.pdb
+C:\Users\sharu\source\repos\HelloWorld\HelloWorld\HelloWorldRepository\obj\Debug\HelloWorldRepository.csproj.CoreCompileInputs.cache
+C:\Users\sharu\source\repos\HelloWorld\HelloWorld\HelloWorldRepository\obj\Debug\HelloWorldRepository.dll
+C:\Users\sharu\source\repos\HelloWorld\HelloWorld\HelloWorldRepository\obj\Debug\HelloWorldRepository.pdb
+C:\Users\sharu\Desktop\HelloWorld\HelloWorldRepository\bin\Debug\HelloWorldRepository.dll
+C:\Users\sharu\Desktop\HelloWorld\HelloWorldRepository\bin\Debug\HelloWorldRepository.pdb
+C:\Users\sharu\Desktop\HelloWorld\HelloWorldRepository\obj\Debug\HelloWorldRepository.csprojResolveAssemblyReference.cache
+C:\Users\sharu\Desktop\HelloWorld\HelloWorldRepository\obj\Debug\HelloWorldRepository.dll
+C:\Users\sharu\Desktop\HelloWorld\HelloWorldRepository\obj\Debug\HelloWorldRepository.pdb
+C:\projects\codetest\codehelloworld\HelloWorldRepository\bin\Debug\HelloWorldRepository.dll
+C:\projects\codetest\codehelloworld\HelloWorldRepository\bin\Debug\HelloWorldRepository.pdb
+C:\projects\codetest\codehelloworld\HelloWorldRepository\obj\Debug\HelloWorldRepository.csprojAssemblyReference.cache
+C:\projects\codetest\codehelloworld\HelloWorldRepository\obj\Debug\HelloWorldRepository.csproj.CoreCompileInputs.cache
+C:\projects\codetest\codehelloworld\HelloWorldRepository\obj\Debug\HelloWorldRepository.dll
+C:\projects\codetest\codehelloworld\HelloWorldRepository\obj\Debug\HelloWorldRepository.pdb
